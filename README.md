@@ -1,4 +1,5 @@
 # React-Django-rest_api
 *****************************
-<h1 style="color:red;">WHAT IS REST??<h1>
+
+<h1><span style="colour:red;">WHAT IS REST??<span></h1>
 https://restfulapi.net/
