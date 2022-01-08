@@ -25,6 +25,24 @@ class Comment:
         self.created = created or datetime.now()
 
 comment = Comment(email='leila@example.com', content='foo bar')
+ 
+ *********
+ # Implementing React side:
+ 
+ Basic Installation:
+  1. Install webpack webpack-cli @babel/core @babel/presets(-env,-react) babel-loader babel-plugin-transform-class-properties in -D dependencies.
+ 
+  2. Install react react-dom and prop-types in dependencies.
   
+ Implementation:
+ 
+
+ 1. Implement Webpack.config.js and .babelrc
+ 
+ 2.  Write the scripts for dev and build.
+ 
+ 3.  Create your react app and add urls and views with index.html link.
+ 
+ 4. In terminal : npm run dev and python manage.py runserver!!
   
   
